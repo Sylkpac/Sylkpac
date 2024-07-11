@@ -32,39 +32,39 @@ By supporting those who work in security operations, I'm constantly learning and
 
 <h2>👨‍💻 Table of Contents:</h2>
 
-1. [📝 Publication/Reports - My thoughts](#publication-reports)
+1. 📝 [Publication/Reports - My thoughts](#publication-reports)
 
-2. [🔎 Web Security Vulnerability Scanner](#web-security-vulnerability-scanner)
+2. 🔎 [Web Security Vulnerability Scanner](#web-security-vulnerability-scanner)
 
-3. [🤖 Threat Intelligence Automation Script](#threat-intelligence-automation-script) 
+3. 🤖 [Threat Intelligence Automation Script](#threat-intelligence-automation-script) 
 
-4. [🎯 Threat Actor TTP Research Repository](#threat-actor-ttp-research-repository)
+4. 🎯 [Threat Actor TTP Research Repository](#threat-actor-ttp-research-repository)
 
-5. [🏁 Capture the Flag (CTF) Write-Ups](#capture-the-flag-ctf-write-ups)
+5. 🏁 [Capture the Flag (CTF) Write-Ups](#capture-the-flag-ctf-write-ups)
 
-6. [📡 Threat Intelligence Feed Parser](#threat-intelligence-feed-parser)
+6. 📡 [Threat Intelligence Feed Parser](#threat-intelligence-feed-parser)
 
-7. [🧅 Security Onion Configuration Guide](#security-onion-configuration-guide)
+7. 🧅 [Security Onion Configuration Guide](#security-onion-configuration-guide)
 
-8. [🕵️‍♀️ OSINT Framework ](#osint-framework)
+8. 🕵️‍♀️ [OSINT Framework ](#osint-framework)
 
-9. [⚙️ Security Automation Framework](#security-automation-framework)
+9. ⚙️ [Security Automation Framework](#security-automation-framework)
 
-10. [🔬 My Personal Security Research Project](#my-personal-security-research-project)
+10. 🔬 [My Personal Security Research Project](#my-personal-security-research-project)
 
-11. [☁️ Cloud Security Posture Management (CSPM) Tool Integration](#cloud-security-posture-management-cspm-tool-integration)
+11. ☁️ [Cloud Security Posture Management (CSPM) Tool Integration](#cloud-security-posture-management-cspm-tool-integration)
 
-12. [🦺🔐 Infrastructure as Code (IaC) Security Framework](#infrastructure-as-code-iac-security-framework)
+12. 🦺🔐 [Infrastructure as Code (IaC) Security Framework](#infrastructure-as-code-iac-security-framework)
 
-13. [⚠️📔 Security Incident and Event Management (SIEM) Rule Development](#security-incident-and-event-management-siem-rule-development)
+13. ⚠️📔 [Security Incident and Event Management (SIEM) Rule Development](#security-incident-and-event-management-siem-rule-development)
 
-14. [🧰 Open-Source Security Tool Enhancement](#open-source-security-tool-enhancement)
+14. 🧰 [Open-Source Security Tool Enhancement](#open-source-security-tool-enhancement)
 
-15. [💥🤖 Penetration Testing Automation Framework](#penetration-testing-automation-framework)
+15. 💥🤖 [Penetration Testing Automation Framework](#penetration-testing-automation-framework)
 
-16. [🎨🧪 Mockups & Labs](#mockups-and-labs)
+16. 🎨🧪 [Mockups & Labs](#mockups-and-labs)
 
-17. [🔗 Useful Weblinks](#useful-weblinks)
+17. 🔗 [Useful Weblinks](#useful-weblinks)
 
 ------------------------------------------------------
 
