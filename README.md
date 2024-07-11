@@ -68,17 +68,17 @@ By supporting those who work in security operations, I'm constantly learning and
 
 ------------------------------------------------------
 
-## 📝 Publication/Reports - My thoughts <a href="#publication-reports"></a>
+## Publication/Reports - My thoughts <a href="#publication-reports"></a>
 
-## 🔎 Web Security Vulnerability Scanner <a href="#web-security-vulnerability-scanner"></a>
+## Web Security Vulnerability Scanner <a href="#web-security-vulnerability-scanner"></a>
 
-## 🤖 Threat Intelligence Automation Script <a href="#threat-intelligence-automation-script"></a>
+## Threat Intelligence Automation Script <a href="#threat-intelligence-automation-script"></a>
 
-## 🎯 Threat Actor TTP Research Repository <a href="#threat-actor-ttp-research-repository"></a>
+## Threat Actor TTP Research Repository <a href="#threat-actor-ttp-research-repository"></a>
 
-## 🏁 Capture the Flag (CTF) Write-Ups <a href="#capture-the-flag-ctf-write-ups"></a>
+## Capture the Flag (CTF) Write-Ups <a href="#capture-the-flag-ctf-write-ups"></a>
 
-## 📡 Threat Intelligence Feed Parser <a href="#threat-intelligence-feed-parser"></a>
+## Threat Intelligence Feed Parser <a href="#threat-intelligence-feed-parser"></a>
 
 ## 🧅 Security Onion Configuration Guide <a href="#security-onion-configuration-guide"></a>
 
