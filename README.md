@@ -68,7 +68,7 @@ By supporting those who work in security operations, I'm constantly learning and
 
 ------------------------------------------------------
 
-## Publication/Reports - My thoughts <a href="#publication-reports"></a>
+Publication/Reports - My thoughts <a href="#publication-reports"></a>
 
 ## Web Security Vulnerability Scanner <a href="#web-security-vulnerability-scanner"></a>
 
