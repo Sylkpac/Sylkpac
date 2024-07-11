@@ -54,146 +54,54 @@ By supporting those who work in security operations, I'm constantly learning and
 
 11. [☁️ Cloud Security Posture Management (CSPM) Tool Integration](#cloud-security-posture-management-cspm-tool-integration)
 
-12. [🦺🔐 Infrastructure as Code (IaC) Security Framework]
+12. [🦺🔐 Infrastructure as Code (IaC) Security Framework](#infrastructure-as-code-iac-security-framework)
 
-13. [⚠️📔 Security Incident and Event Management (SIEM) Rule Development]
+13. [⚠️📔 Security Incident and Event Management (SIEM) Rule Development](#security-incident-and-event-management-siem-rule-development)
 
-14. [🧰 Open-Source Security Tool Enhancement]
+14. [🧰 Open-Source Security Tool Enhancement](#open-source-security-tool-enhancement)
 
-15. [💥🤖 Penetration Testing Automation Framework]
+15. [💥🤖 Penetration Testing Automation Framework](#penetration-testing-automation-framework)
 
-16. [🎨🧪 Mockups & Labs]
+16. [🎨🧪 Mockups & Labs](#mockups-and-labs)
 
-17. [🔗 Useful Weblinks]
+17. [🔗 Useful Weblinks](#useful-weblinks)
 
 ------------------------------------------------------
 
 ## 📝 Publication/Reports - My thoughts <a href="#publication-reports"></a>
 
-## 🔎 Web Security Vulnerability Scanner
+## 🔎 Web Security Vulnerability Scanner <a href="#web-security-vulnerability-scanner"></a>
 
-## 🤖 Threat Intelligence Automation Script 
+## 🤖 Threat Intelligence Automation Script <a href="#threat-intelligence-automation-script"></a>
 
-## 🎯 Threat Actor TTP Research Repository
+## 🎯 Threat Actor TTP Research Repository <a href="#threat-actor-ttp-research-repository"></a>
 
-## 🏁 Capture the Flag (CTF) Write-Ups
+## 🏁 Capture the Flag (CTF) Write-Ups <a href="#capture-the-flag-ctf-write-ups"></a>
 
-## 📡 Threat Intelligence Feed Parser
+## 📡 Threat Intelligence Feed Parser <a href="#threat-intelligence-feed-parser"></a>
 
-## 🧅 Security Onion Configuration Guide
+## 🧅 Security Onion Configuration Guide <a href="#security-onion-configuration-guide"></a>
 
-## 🕵️‍♀️ OSINT Framework 
+## 🕵️‍♀️ OSINT Framework <a href="#osint-framework"></a>
 
-## ⚙️ Security Automation Framework
+## ⚙️ Security Automation Framework <a href="#security-automation-framework"></a>
 
-## 🔬 My Personal Security Research Project
+## 🔬 My Personal Security Research Project <a href="#my-personal-security-research-project"></a>
 
-## ☁️ Cloud Security Posture Management (CSPM) Tool Integration
+## ☁️ Cloud Security Posture Management (CSPM) Tool Integration <a href="#cloud-security-posture-management-cspm-tool-integration"></a>
 
-## 🦺🔐 Infrastructure as Code (IaC) Security Framework
+## 🦺🔐 Infrastructure as Code (IaC) Security Framework <a href="#infrastructure-as-code-iac-security-framework"></a>
 
-## ⚠️📔 Security Incident and Event Management (SIEM) Rule Development
+## ⚠️📔 Security Incident and Event Management (SIEM) Rule Development <a href="#security-incident-and-event-management-siem-rule-development"></a>
 
-## 🧰 Open-Source Security Tool Enhancement
+## 🧰 Open-Source Security Tool Enhancement <a href="#open-source-security-tool-enhancement"></a>
 
-## 💥🤖 Penetration Testing Automation Framework
+## 💥🤖 Penetration Testing Automation Framework <a href="#penetration-testing-automation-framework"></a>
 
-## 🎨🧪 Mockups & Labs
+## 🎨🧪 Mockups & Labs <a href="#mockups-and-labs"></a>
 
-## 🔗 Useful Weblinks
-
-
------------------------------------
------------------------------------
-
-
-## Table of Contents
-
-1. [Publication/Reports - My Thoughts](#publication-reports)
-2. [Web Security Vulnerability Scanner](#web-security-vulnerability-scanner)
-3. [Threat Intelligence Automation Script](#threat-intelligence-automation-script)
-4. [Threat Actor TTP Research Repository](#threat-actor-ttp-research-repository)
-5. [Capture the Flag (CTF) Write-Ups](#capture-the-flag-ctf-write-ups)
-6. [Threat Intelligence Feed Parser](#threat-intelligence-feed-parser)
-7. [Security Onion Configuration Guide](#security-onion-configuration-guide)
-8. [OSINT Framework](#osint-framework)
-9. [Security Automation Framework](#security-automation-framework)
-10. [My Personal Security Research Project](#my-personal-security-research-project)
-11. [Cloud Security Posture Management (CSPM) Tool Integration](#cloud-security-posture-management-cspm-tool-integration)
-12. [Infrastructure as Code (IaC) Security Framework](#infrastructure-as-code-iac-security-framework)
-13. [Security Incident and Event Management (SIEM) Rule Development](#security-incident-and-event-management-siem-rule-development)
-14. [Open-Source Security Tool Enhancement](#open-source-security-tool-enhancement)
-15. [Penetration Testing Automation Framework](#penetration-testing-automation-framework)
-16. [Mockups & Labs](#mockups-and-labs)
-17. [Useful Weblinks](#useful-weblinks)
+## 🔗 Useful Weblinks <a href="#useful-weblinks"></a>
 
 
 
 
-## Publication/Reports - My Thoughts  <a href="#publication-reports"></a>
-
-Content for Publication/Reports section...
-
-## Web Security Vulnerability Scanner  <a href="#web-security-vulnerability-scanner"></a>
-
-Content for Web Security Vulnerability Scanner section...
-
-## Threat Intelligence Automation Script  <a href="#threat-intelligence-automation-script"></a>
-
-Content for Threat Intelligence Automation Script section...
-
-## Threat Actor TTP Research Repository  <a href="#threat-actor-ttp-research-repository"></a>
-
-Content for Threat Actor TTP Research Repository section...
-
-## Capture the Flag (CTF) Write-Ups  <a href="#capture-the-flag-ctf-write-ups"></a>
-
-Content for Capture the Flag (CTF) Write-Ups section...
-
-## Threat Intelligence Feed Parser  <a href="#threat-intelligence-feed-parser"></a>
-
-Content for Threat Intelligence Feed Parser section...
-
-## Security Onion Configuration Guide  <a href="#security-onion-configuration-guide"></a>
-
-Content for Security Onion Configuration Guide section...
-
-## OSINT Framework  <a href="#osint-framework"></a>
-
-Content for OSINT Framework section...
-
-## Security Automation Framework  <a href="#security-automation-framework"></a>
-
-Content for Security Automation Framework section...
-
-## My Personal Security Research Project  <a href="#my-personal-security-research-project"></a>
-
-Content for My Personal Security Research Project section...
-
-## Cloud Security Posture Management (CSPM) Tool Integration  <a href="#cloud-security-posture-management-cspm-tool-integration"></a>
-
-Content for Cloud Security Posture Management (CSPM) Tool Integration section...
-
-## Infrastructure as Code (IaC) Security Framework  <a href="#infrastructure-as-code-iac-security-framework"></a>
-
-Content for Infrastructure as Code (IaC) Security Framework section...
-
-## Security Incident and Event Management (SIEM) Rule Development  <a href="#security-incident-and-event-management-siem-rule-development"></a>
-
-Content for Security Incident and Event Management (SIEM) Rule Development section...
-
-## Open-Source Security Tool Enhancement  <a href="#open-source-security-tool-enhancement"></a>
-
-Content for Open-Source Security Tool Enhancement section...
-
-## Penetration Testing Automation Framework  <a href="#penetration-testing-automation-framework"></a>
-
-Content for Penetration Testing Automation Framework section...
-
-## Mockups & Labs  <a href="#mockups-and-labs"></a>
-
-Content for Mockups & Labs section...
-
-## Useful Weblinks  <a href="#useful-weblinks"></a>
-
-Content for Useful Weblinks section...
