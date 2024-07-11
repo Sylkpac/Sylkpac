@@ -32,7 +32,7 @@ By supporting those who work in security operations, I'm constantly learning and
 
 <h2>👨‍💻 Table of Contents:</h2>
 
-1. 📝 [Publication/Reports - My thoughts](#publication-reports)
+1. 📝 [Publication/Reports - My thoughts](#publicationreports)
 
 2. 🔎 [Web Security Vulnerability Scanner](#web-security-vulnerability-scanner)
 
@@ -68,7 +68,7 @@ By supporting those who work in security operations, I'm constantly learning and
 
 ------------------------------------------------------
 
-## Publication/Reports - My thoughts <a href="#publication-reports"></a>
+## Publication/Reports - My thoughts <a name="publicationreports"></a>
 
 ## Web Security Vulnerability Scanner <a href="#web-security-vulnerability-scanner"></a>
 
