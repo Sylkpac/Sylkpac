@@ -84,23 +84,23 @@ By supporting those who work in security operations, I'm constantly learning and
 
 ## 🕵️‍♀️ OSINT Framework <a name="osint-framework"></a>
 
-## ⚙️ Security Automation Framework <a href="#security-automation-framework"></a>
+## ⚙️ Security Automation Framework <a name="security-automation-framework"></a>
 
-## 🔬 My Personal Security Research Project <a href="#my-personal-security-research-project"></a>
+## 🔬 My Personal Security Research Project <a name="my-personal-security-research-project"></a>
 
-## ☁️ Cloud Security Posture Management (CSPM) Tool Integration <a href="#cloud-security-posture-management-cspm-tool-integration"></a>
+## ☁️ Cloud Security Posture Management (CSPM) Tool Integration <a name="cloud-security-posture-management-cspm-tool-integration"></a>
 
-## 🦺🔐 Infrastructure as Code (IaC) Security Framework <a href="#infrastructure-as-code-iac-security-framework"></a>
+## 🦺🔐 Infrastructure as Code (IaC) Security Framework <a name="infrastructure-as-code-iac-security-framework"></a>
 
-## ⚠️📔 Security Incident and Event Management (SIEM) Rule Development <a href="#security-incident-and-event-management-siem-rule-development"></a>
+## ⚠️📔 Security Incident and Event Management (SIEM) Rule Development <a name="security-incident-and-event-management-siem-rule-development"></a>
 
-## 🧰 Open-Source Security Tool Enhancement <a href="#open-source-security-tool-enhancement"></a>
+## 🧰 Open-Source Security Tool Enhancement <a name="open-source-security-tool-enhancement"></a>
 
-## 💥🤖 Penetration Testing Automation Framework <a href="#penetration-testing-automation-framework"></a>
+## 💥🤖 Penetration Testing Automation Framework <a name="penetration-testing-automation-framework"></a>
 
-## 🎨🧪 Mockups & Labs <a href="#mockups-and-labs"></a>
+## 🎨🧪 Mockups & Labs <a name="mockups-and-labs"></a>
 
-## 🔗 Useful Weblinks <a href="#useful-weblinks"></a>
+## 🔗 Useful Weblinks <a name="useful-weblinks"></a>
 
 
 
