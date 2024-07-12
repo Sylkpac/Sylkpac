@@ -6,11 +6,11 @@ Cybersecurity Analyst
 
 ### My Cloud Security Journey: Documented on GitHub
 
-For over 10 years, I've thrived in customer service, but my true passion lies in the mysteries of the digital world. That's what led me to IT, where I gained valuable experience in system administration. 
+For over 10 years, I've thrived in customer service, but my true passion lies in understanding our digital world. That's what led me to IT Support, where I gained valuable experience in system administration.
 
-Now, as a Client Success Specialist in Threat Intelligence, I get to roll up my sleeves and collaborate with clients to turn complex cyber threats into clear insights. I bring a positive attitude and a "get things done" mentality to every challenge, always happy to go the extra mile to help clients understand and defend against threats. 
+Now, as a Client Success Specialist in Threat Intelligence, I roll up my sleeves and collaborate with clients to transform complex cyber threats into clear insights. I bring a positive attitude and a "get things done" mentality to every challenge, always willing to go the extra mile to help clients understand and defend against threats.
 
-By supporting those who work in security operations, I'm constantly learning and staying ahead of the curve. GitHub is where I document my training and explore new tools and techniques. I'm eager to leverage my skills and knowledge to contribute to a team that actively protects our digital landscape.
+By supporting security operations professionals, I'm constantly learning and staying ahead of the curve. GitHub is where I document my journey towards becoming a Cloud Security Engineer, detailing my training and exploring new tools and techniques. I'm excited to leverage my skills and knowledge to contribute to a team that actively protects our digital landscape.
 
 * 🌍  I'm based in Florida
 * ✉️  You can contact me at [www.linkedin.com/in/sarah-camacho2023](mailto:www.linkedin.com/in/sarah-camacho2023)
