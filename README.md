@@ -14,7 +14,7 @@ By supporting security operations professionals, I'm constantly learning and sta
 
 * 🌍  I'm based in Florida
 * ✉️  You can contact me at [www.linkedin.com/in/sarah-camacho2023](mailto:www.linkedin.com/in/sarah-camacho2023)
-* 🧠  I'm learning CompTia Security +
+* 🧠  I'm on a journey to becoming a Cloud Security Engineer
 * 🤝  I'm open to collaborating with Exam Studies
 * ⚡  I want to be good and do good for the world <3
 
