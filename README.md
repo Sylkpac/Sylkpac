@@ -6,11 +6,14 @@ Cybersecurity Analyst
 
 ### My Cloud Security Journey: Documented on GitHub
 
-For over 10 years, I've thrived in customer service, but my true passion lies in understanding our digital world. That's what led me to IT Support, where I gained valuable experience in system administration.
+Customer service pro for over 10 years (sharpened those problem-solving skills!), but the tech world always intrigued me. So, I took the leap and dove into IT Support at a law firm.
 
-Now, as a Client Success Specialist in Threat Intelligence, I roll up my sleeves and collaborate with clients to transform complex cyber threats into clear insights. I bring a positive attitude and a "get things done" mentality to every challenge, always willing to go the extra mile to help clients understand and defend against threats.
+Now, I'm a Client Success Specialist at Team Cymru (a Threat Intelligence powerhouse!). I help clients understand and tackle cyber threats both inside and outside their networks. Every case is unique, keeping me on my toes and always learning.
 
-By supporting security operations professionals, I'm constantly learning and staying ahead of the curve. GitHub is where I document my journey towards becoming a Cloud Security Engineer, detailing my training and exploring new tools and techniques. I'm excited to leverage my skills and knowledge to contribute to a team that actively protects our digital landscape.
+Becoming a Cloud Security Engineer is my next frontier! I’m actively pursuing this goal, dedicating significant time to training each week and exploring new tools. You can follow my journey on GitHub (github.com/Sylkpac).
+
+Join me as I work towards becoming a Cloud Security Engineer! Let's explore the world of Cloud Security together, sharing insights, challenges, and those sweet "aha!" moments.
+
 
 * 🌍  I'm based in Florida
 * ✉️  You can contact me at [www.linkedin.com/in/sarah-camacho2023](mailto:www.linkedin.com/in/sarah-camacho2023)
