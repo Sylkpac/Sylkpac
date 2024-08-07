@@ -12,7 +12,7 @@ Now, I'm a Client Success Specialist at Team Cymru (a Threat Intelligence powerh
 
 Becoming a Cloud Security Engineer is my next frontier! I’m actively pursuing this goal, dedicating significant time to training each week and exploring new tools. You can follow my journey on GitHub (github.com/Sylkpac).
 
-Join me as I work towards becoming a Cloud Security Engineer! Let's explore the world of Cloud Security together, sharing insights, challenges, and those sweet "aha!" moments.
+Join me as I work towards becoming a Cloud Security Engineer and let's explore the world of Cloud Security together!
 
 
 * 🌍  I'm based in Florida
