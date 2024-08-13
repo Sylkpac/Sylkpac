@@ -8,12 +8,9 @@ Cybersecurity Analyst
 
 Customer service pro for over 10 years (sharpened those problem-solving skills!), but the tech world always intrigued me. So, I took the leap and dove into IT Support at a law firm.
 
-Now, I'm a Client Success Specialist at Team Cymru (a Threat Intelligence powerhouse!). I help clients understand and tackle cyber threats both inside and outside their networks. Every case is unique, keeping me on my toes and always learning.
+Now, I'm a Client Success Engineer at Team Cymru (a Threat Intelligence company). I help clients understand and tackle cyber threats both inside and outside their networks. Every case is unique, keeping me on my toes and always learning.
 
 Becoming a Cloud Security Engineer is my next frontier! I’m actively pursuing this goal, dedicating significant time to training each week and exploring new tools. You can follow my journey on GitHub (github.com/Sylkpac).
-
-Join me as I work towards becoming a Cloud Security Engineer and let's explore the world of Cloud Security together!
-
 
 * 🌍  I'm based in Florida
 * ✉️  You can contact me at [www.linkedin.com/in/sarah-camacho2023](mailto:www.linkedin.com/in/sarah-camacho2023)
