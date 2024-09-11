@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cybersecurity Analyst
 ---------------------
 
-### My Cloud Security Journey: Documented on GitHub
+### My Cloud Security Expereince: Documented on GitHub
 
 Customer service pro for over 10 years (sharpened those problem-solving skills!), but the tech world always intrigued me. So, I took the leap and dove into IT Support at a law firm.
 
