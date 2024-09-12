@@ -3,14 +3,24 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Cybersecurity Analyst
 ---------------------
+### Welcome to my GitHub!
+I'm on a mission to become a Cloud Security Engineer. This repository showcases my growing knowledge and practical experience in the cybersecurity field.
 
-### My Cloud Security Expereince: Documented on GitHub
+### What's in it for you?
 
-Customer service pro for over 10 years (sharpened those problem-solving skills!), but the tech world always intrigued me. So, I took the leap and dove into IT Support at a law firm.
+* **Learn from my journey:** 
+Witness my progression towards becoming a Cloud Security Engineer through labs, write-ups, and projects.
+* **Gain valuable insights:** 
+Explore solutions to security challenges I've encountered.
+* **Stay ahead of the curve:** 
+Discover the latest tools and techniques I'm learning and implementing.
 
-Now, I'm a Client Success Engineer at Team Cymru (a Threat Intelligence company). I help clients understand and tackle cyber threats both inside and outside their networks. Every case is unique, keeping me on my toes and always learning.
+### Always Learning:
+I'm always learning, whether it's on my own, while supporting clients at work, or staying active in my local cyber community. I make sure to get the exposure I need to keep improving my skills.
 
-Becoming a Cloud Security Engineer is my next frontier! I’m actively pursuing this goal, dedicating significant time to training each week and exploring new tools. You can follow my journey on GitHub (github.com/Sylkpac).
+### Join the Journey!
+Join me on my journey toward becoming a Cloud Security Engineer and learn alongside me. Feel free to reach out with any questions or if you'd like to collaborate!
+
 
 * 🌍  I'm based in Florida
 * ✉️  You can contact me at [www.linkedin.com/in/sarah-camacho2023](mailto:www.linkedin.com/in/sarah-camacho2023)
