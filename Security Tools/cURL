@@ -1,6 +1,7 @@
 Learn How to Use cURL: A Beginner's Guide to Making Web Requests
 ================================================================================================================================
-This guide covers the basics of cURL and explores some common use cases. By the end, you'll be able to:
+
+###This guide covers the basics of cURL and explores some common use cases. By the end, you'll be able to:
 Install cURL (if needed)
 Make GET requests to retrieve data from websites
 Analyze HTTP response headers to understand server responses
