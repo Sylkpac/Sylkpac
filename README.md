@@ -68,7 +68,7 @@ Join me on my journey toward becoming a Cloud Security Engineer and learn alongs
 
 13. ⚠️📔 [Security Incident and Event Management (SIEM) Rule Development](#security-incident-and-event-management-siem-rule-development)
 
-14. 🧰 [Open-Source Security Tool](#open-source-security-tool)
+14. 🧰 [Open-Source Security Tools](#open-source-security-tools)
 
 15. 💥🤖 [Penetration Testing Automation Framework](#penetration-testing-automation-framework)
 
@@ -104,7 +104,7 @@ Join me on my journey toward becoming a Cloud Security Engineer and learn alongs
 
 ## ⚠️📔 Security Incident and Event Management (SIEM) Rule Development <a name="security-incident-and-event-management-siem-rule-development"></a>
 
-## 🧰 Open-Source Security Tool  <a name="open-source-security-tool"></a>
+## 🧰 Open-Source Security Tools <a name="open-source-security-tools"></a>
 
 ## 💥🤖 Penetration Testing Automation Framework <a name="penetration-testing-automation-framework"></a>
 
