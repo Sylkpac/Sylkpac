@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sarah!
 ================================================================================================================================
 
-Cybersecurity Analyst
+Cloud Security Engineer
 ---------------------
 ### Welcome to my GitHub!
 I'm on a mission to become a Cloud Security Engineer. This repository showcases my growing knowledge and practical experience in the cybersecurity field.
@@ -68,7 +68,7 @@ Join me on my journey toward becoming a Cloud Security Engineer and learn alongs
 
 13. ⚠️📔 [Security Incident and Event Management (SIEM) Rule Development](#security-incident-and-event-management-siem-rule-development)
 
-14. 🧰 [Open-Source Security Tool Enhancement](#open-source-security-tool-enhancement)
+14. 🧰 [Open-Source Security Tool](#open-source-security-tool)
 
 15. 💥🤖 [Penetration Testing Automation Framework](#penetration-testing-automation-framework)
 
@@ -104,7 +104,7 @@ Join me on my journey toward becoming a Cloud Security Engineer and learn alongs
 
 ## ⚠️📔 Security Incident and Event Management (SIEM) Rule Development <a name="security-incident-and-event-management-siem-rule-development"></a>
 
-## 🧰 Open-Source Security Tool Enhancement <a name="open-source-security-tool-enhancement"></a>
+## 🧰 Open-Source Security Tool  <a name="open-source-security-tool"></a>
 
 ## 💥🤖 Penetration Testing Automation Framework <a name="penetration-testing-automation-framework"></a>
 
