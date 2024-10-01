@@ -65,5 +65,5 @@ Join me on my journey toward becoming a Cloud Security Engineer and learn alongs
 ## 🧪 Mockups & Labs<a name="mockups-and-labs"></a>
 
 ## ✏️ Learn Cloud and Security Engineering<a name="learncloudandsecurity"></a>
-- <b>[tmux: A Powerful Multi-Pane Terminal](https://github.com/joshmadakor1/Algorithms-Practice)<b>
+- <b>[tmux: A Powerful Multi-Pane Terminal](https://github.com/Sylkpac/tmux)<b>
 ## 🔗 Useful Weblinks<a name="useful-weblinks"></a>
