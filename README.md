@@ -56,14 +56,14 @@ Join me on my journey toward becoming a Cloud Security Engineer and learn alongs
 
 ------------------------------------------------------
 
-## 🔬 Security Research Projects(a name="security-research-projects"></a>
+## 🔬 Security Research Projects<a name="security-research-projects"></a>
 
-## 📝 Publication/Reports - My thoughts(a name="publicationreports"></a>
+## 📝 Publication/Reports - My thoughts<a name="publicationreports"></a>
 
-## 🧰 Security Tools and Frameworks (a name="security-tools-and-frameworks"></a>
+## 🧰 Security Tools and Frameworks<a name="security-tools-and-frameworks"></a>
 
-## 🎨🧪 Mockups & Labs(a name="mockups-and-labs"></a>
+## 🎨🧪 Mockups & Labs<a name="mockups-and-labs"></a>
 
-## 🎒✏️ Learn Cloud and Security Engineering(a name="learncloudandsecurity"></a>
+## 🎒✏️ Learn Cloud and Security Engineering<a name="learncloudandsecurity"></a>
 
-## 🔗 Useful Weblinks(a name="useful-weblinks"></a>
+## 🔗 Useful Weblinks<a name="useful-weblinks"></a>
