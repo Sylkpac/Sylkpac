@@ -42,76 +42,28 @@ Join me on my journey toward becoming a Cloud Security Engineer and learn alongs
 
 <h2>👨‍💻 Table of Contents:</h2>
 
-1. 📝 [Publication/Reports - My thoughts](#publicationreports)
+1. 🔬 [Security Research Projects](#security-research-projects)
 
-2. 🔎 [Web Security Vulnerability Scanner](#web-security-vulnerability-scanner)
+2. 📝 [Publication/Reports - My thoughts](#publicationreports)
 
-3. 🤖 [Threat Intelligence Automation Script](#threat-intelligence-automation-script) 
+3. 🧰 [Security Tools and Frameworks](#security-tools-and-frameworks)
 
-4. 🎯 [Threat Actor TTP Research Repository](#threat-actor-ttp-research-repository)
+4. 🎨🧪 [Mockups & Labs](#mockups-and-labs)
 
-5. 🏁 [Capture the Flag (CTF) Write-Ups](#capture-the-flag-ctf-write-ups)
+5. 🎒✏️ [Learn Cloud and Security Engineering](#learncloudandsecurity)
 
-6. 📡 [Threat Intelligence Feed Parser](#threat-intelligence-feed-parser)
-
-7. 🧅 [Security Onion Configuration Guide](#security-onion-configuration-guide)
-
-8. 🕵️‍♀️ [OSINT Framework ](#osint-framework)
-
-9. ⚙️ [Security Automation Framework](#security-automation-framework)
-
-10. 🔬 [My Personal Security Research Project](#my-personal-security-research-project)
-
-11. ☁️ [Cloud Security Posture Management (CSPM) Tool Integration](#cloud-security-posture-management-cspm-tool-integration)
-
-12. 🦺🔐 [Infrastructure as Code (IaC) Security Framework](#infrastructure-as-code-iac-security-framework)
-
-13. ⚠️📔 [Security Incident and Event Management (SIEM) Rule Development](#security-incident-and-event-management-siem-rule-development)
-
-14. 🧰 [Security Tools](#security-tools)
-
-15. 💥🤖 [Penetration Testing Automation Framework](#penetration-testing-automation-framework)
-
-16. 🎨🧪 [Mockups & Labs](#mockups-and-labs)
-
-17. 🔗 [Useful Weblinks](#useful-weblinks)
+6. 🔗 [Useful Weblinks](#useful-weblinks)
 
 ------------------------------------------------------
 
-## 📝 Publication/Reports - My thoughts <a name="publicationreports"></a>
+## 🔬 Security Research Projects(a name="security-research-projects"></a>
 
-## 🔎 Web Security Vulnerability Scanner <a name="web-security-vulnerability-scanner"></a>
+## 📝 Publication/Reports - My thoughts(a name="publicationreports"></a>
 
-## 🤖 Threat Intelligence Automation Script <a name="threat-intelligence-automation-script"></a>
+## 🧰 Security Tools and Frameworks (a name="security-tools-and-frameworks"></a>
 
-## 🎯 Threat Actor TTP Research Repository <a name="threat-actor-ttp-research-repository"></a>
+## 🎨🧪 Mockups & Labs(a name="mockups-and-labs"></a>
 
-## 🏁 Capture the Flag (CTF) Write-Ups <a name="capture-the-flag-ctf-write-ups"></a>
+## 🎒✏️ Learn Cloud and Security Engineering(a name="learncloudandsecurity"></a>
 
-## 📡 Threat Intelligence Feed Parser <a name="threat-intelligence-feed-parser"></a>
-
-## 🧅 Security Onion Configuration Guide <a name="security-onion-configuration-guide"></a>
-
-## 🕵️‍♀️ OSINT Framework <a name="osint-framework"></a>
-
-## ⚙️ Security Automation Framework <a name="security-automation-framework"></a>
-
-## 🔬 My Personal Security Research Project <a name="my-personal-security-research-project"></a>
-
-## ☁️ Cloud Security Posture Management (CSPM) Tool Integration <a name="cloud-security-posture-management-cspm-tool-integration"></a>
-
-## 🦺🔐 Infrastructure as Code (IaC) Security Framework <a name="infrastructure-as-code-iac-security-framework"></a>
-
-## ⚠️📔 Security Incident and Event Management (SIEM) Rule Development <a name="security-incident-and-event-management-siem-rule-development"></a>
-
-## 🧰 Security Tools <a name="security-tools"></a>
-
-## 💥🤖 Penetration Testing Automation Framework <a name="penetration-testing-automation-framework"></a>
-
-## 🎨🧪 Mockups & Labs <a name="mockups-and-labs"></a>
-
-## 🔗 Useful Weblinks <a name="useful-weblinks"></a>
-
-
-
-
+## 🔗 Useful Weblinks(a name="useful-weblinks"></a>
