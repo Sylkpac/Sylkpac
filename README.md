@@ -57,7 +57,7 @@ Join me on my journey toward becoming a Cloud Security Engineer and learn alongs
 ------------------------------------------------------
 
 ## 🔬 Security Research Projects<a name="security-research-projects"></a>
-
+- <b>[tmux: A Powerful Multi-Pane Terminal](https://github.com/joshmadakor1/Algorithms-Practice)<b>
 ## 📝 Publication/Reports - My thoughts<a name="publicationreports"></a>
 
 ## 🧰 Security Tools and Frameworks<a name="security-tools-and-frameworks"></a>
