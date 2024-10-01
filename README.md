@@ -48,9 +48,9 @@ Join me on my journey toward becoming a Cloud Security Engineer and learn alongs
 
 3. 🧰 [Security Tools and Frameworks](#security-tools-and-frameworks)
 
-4. 🎨🧪 [Mockups & Labs](#mockups-and-labs)
+4. 🧪 [Mockups & Labs](#mockups-and-labs)
 
-5. 🎒✏️ [Learn Cloud and Security Engineering](#learncloudandsecurity)
+5. ✏️ [Learn Cloud and Security Engineering](#learncloudandsecurity)
 
 6. 🔗 [Useful Weblinks](#useful-weblinks)
 
@@ -62,8 +62,8 @@ Join me on my journey toward becoming a Cloud Security Engineer and learn alongs
 
 ## 🧰 Security Tools and Frameworks<a name="security-tools-and-frameworks"></a>
 
-## 🎨🧪 Mockups & Labs<a name="mockups-and-labs"></a>
+## 🧪 Mockups & Labs<a name="mockups-and-labs"></a>
 
-## 🎒✏️ Learn Cloud and Security Engineering<a name="learncloudandsecurity"></a>
+## ✏️ Learn Cloud and Security Engineering<a name="learncloudandsecurity"></a>
 
 ## 🔗 Useful Weblinks<a name="useful-weblinks"></a>
