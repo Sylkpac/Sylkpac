@@ -67,5 +67,6 @@ Join me on my journey toward becoming a Cloud Security Engineer and learn alongs
 ## ✏️ Learn Cloud and Security Engineering<a name="learncloudandsecurity"></a>
 - <b>[tmux: A Powerful Multi-Pane Terminal](https://github.com/Sylkpac/tmux)<b>
 - <b>[Learn How to Use cURL: A Beginner's Guide to Making Web Requests](https://github.com/Sylkpac/cURL)<b>
+- <b>[Trace the Route!](https://github.com/Sylkpac/traceroute)<b>
 ## 🔗 Useful Weblinks<a name="useful-weblinks"></a>
 - <b>[Windows Package Manager explained and installation](https://youtu.be/7Eiuvy5_dh8?si=PCtAZ7XT5jSe6vRK)<b>
