@@ -61,6 +61,7 @@ Join me on my journey toward becoming a Cloud Security Engineer and learn alongs
 ## 📝 Publication/Reports - My thoughts<a name="publicationreports"></a>
 
 ## 🧰 Security Tools and Frameworks<a name="security-tools-and-frameworks"></a>
+- <b>[Setting Up SSH Keys for GitHub Access](https://github.com/Sylkpac/Github)<b>
 
 ## 🧪 Mockups & Labs<a name="mockups-and-labs"></a>
 
