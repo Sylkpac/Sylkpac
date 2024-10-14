@@ -64,7 +64,8 @@ Join me on my journey toward becoming a Cloud Security Engineer and learn alongs
 - <b>[Setting Up SSH Keys for GitHub Access](https://github.com/Sylkpac/Github)<b>
 - <b>[Version Controlling using Git](https://github.com/Sylkpac/Github/blob/main/README.md#version-controlling-using-git)
 - <b>[Collaborating with Git – Using Branches and Pull Requests](https://github.com/Sylkpac/Github/blob/main/README.md#collaborating-with-git--using-branches-and-pull-requests)
-- <b>[Configuring AWS CLI for Secure Cloud Operations](https://github.com/Sylkpac/AWS?tab=readme-ov-file#Configuring-AWS-CLI)
+- <b>[Securing AWS Accounts and Setting Up Billing Budgets for Cloud Operations](https://github.com/Sylkpac/AWS/blob/main/README.md#securing_aws_accounts)
+- <b>[Configuring AWS CLI for Secure Cloud Operations](https://github.com/Sylkpac/AWS/blob/main/README.md#configuring-aws-cli)
 
 ## 🧪 Mockups & Labs<a name="mockups-and-labs"></a>
 
