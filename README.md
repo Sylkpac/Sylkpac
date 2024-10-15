@@ -67,6 +67,7 @@ Join me on my journey toward becoming a Cloud Security Engineer and learn alongs
 - <b>[Securing AWS Accounts and Setting Up Billing Budgets for Cloud Operations](https://github.com/Sylkpac/AWS/blob/main/README.md#securing_aws_accounts)<b>
 - <b>[Configuring AWS CLI for Secure Cloud Operations](https://github.com/Sylkpac/AWS/blob/main/README.md#configuring-aws-cli)<b>
 - <b>[Creating and Managing S3 Buckets Using AWS CLI for Secure Cloud Storage](https://github.com/Sylkpac/AWS/blob/main/README.md#creating_s3)
+- <b> [Creating IAM Users and Assigning Read-Only Access to S3 via AWS CLI](https://github.com/Sylkpac/AWS/blob/main/README.md#creating_iam)
 
 ## 🧪 Mockups & Labs<a name="mockups-and-labs"></a>
 
