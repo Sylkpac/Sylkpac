@@ -66,6 +66,7 @@ Join me on my journey toward becoming a Cloud Security Engineer and learn alongs
 - <b>[Collaborating with Git – Using Branches and Pull Requests](https://github.com/Sylkpac/Github/blob/main/README.md#collaborating-with-git--using-branches-and-pull-requests)<b>
 - <b>[Securing AWS Accounts and Setting Up Billing Budgets for Cloud Operations](https://github.com/Sylkpac/AWS/blob/main/README.md#securing_aws_accounts)<b>
 - <b>[Configuring AWS CLI for Secure Cloud Operations](https://github.com/Sylkpac/AWS/blob/main/README.md#configuring-aws-cli)<b>
+- <b>[Creating and Managing S3 Buckets Using AWS CLI for Secure Cloud Storage](https://github.com/Sylkpac/AWS/blob/main/README.md#creating_s3)
 
 ## 🧪 Mockups & Labs<a name="mockups-and-labs"></a>
 
