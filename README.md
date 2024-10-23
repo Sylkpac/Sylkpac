@@ -70,6 +70,7 @@ Join me on my journey toward becoming a Cloud Security Engineer and learn alongs
 - <b> [Creating IAM Users and Assigning Read-Only Access to S3 via AWS CLI](https://github.com/Sylkpac/AWS/blob/main/README.md#creating_iam)
 
 ## 🧪 Mockups & Labs<a name="mockups-and-labs"></a>
+- <b> [Web Application Architecture on AWS With Summary and Flow](https://github.com/Sylkpac/AWS/blob/main/README.md#webapp_arch)
 
 ## ✏️ Learn Cloud and Security Engineering<a name="learncloudandsecurity"></a>
 - <b>[tmux: A Powerful Multi-Pane Terminal](https://github.com/Sylkpac/tmux)<b>
