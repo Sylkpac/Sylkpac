@@ -67,7 +67,7 @@ Join me on my journey toward becoming a Cloud Security Engineer and learn alongs
 - <b>[Securing AWS Accounts and Setting Up Billing Budgets for Cloud Operations](https://github.com/Sylkpac/AWS/blob/main/README.md#securing_aws_accounts)<b>
 - <b>[Configuring AWS CLI for Secure Cloud Operations](https://github.com/Sylkpac/AWS/blob/main/README.md#configuring-aws-cli)<b>
 - <b>[Creating and Managing S3 Buckets Using AWS CLI for Secure Cloud Storage](https://github.com/Sylkpac/AWS/blob/main/README.md#creating_s3)
-- <b> [Creating IAM Users and Assigning Read-Only Access to S3 via AWS CLI](https://github.com/Sylkpac/AWS/blob/main/README.md#creating_iam)
+- <b>[Creating IAM Users and Assigning Read-Only Access to S3 via AWS CLI](https://github.com/Sylkpac/AWS/blob/main/README.md#creating_iam)
 
 ## 🧪 Mockups & Labs<a name="mockups-and-labs"></a>
 - <b> [Web Application Architecture on AWS With Summary and Flow](https://github.com/Sylkpac/AWS/blob/main/README.md#webapp_arch)
@@ -77,6 +77,7 @@ Join me on my journey toward becoming a Cloud Security Engineer and learn alongs
 - <b>[Learn How to Use cURL: A Beginner's Guide to Making Web Requests](https://github.com/Sylkpac/cURL)<b>
 - <b>[Trace the Route!](https://github.com/Sylkpac/traceroute)<b>
 - <b>[Find Your Public and Private IP](https://github.com/Sylkpac/Find-your-Public-IP/tree/main)<b>
+- <b>[Designing and Evaluating Architectural Styles for E-commerce Solutionss](https://github.com/Sylkpac/AWS/tree/main?tab=readme-ov-file#ecommerce_styles)<b>
 
 ## 🔗 Useful Weblinks<a name="useful-weblinks"></a>
 - <b>[Windows Package Manager explained and installation](https://youtu.be/7Eiuvy5_dh8?si=PCtAZ7XT5jSe6vRK)<b>
