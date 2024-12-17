@@ -45,15 +45,15 @@ Feel free to reach out if you have questions, want to collaborate, or need guida
 
 2. 🛠️ [Version Control & Architecture](#version_control_architecture)
 
-3. 💻 [Linux, Bash, and Automation](#Linux_Bash_Automation)
+3. 💻 [Linux, Bash, and Automation](#linux_bash_automation)
 
-4. ☁️ [Infrastructure and DevOps](#Infrastructure_DevOps)
+4. ☁️ [Infrastructure and DevOps](#infrastructure_devops)
 
-5. 🔒 [Cloud Security Essentials](#Cloud_Security_Essentials)
+5. 🔒 [Cloud Security Essentials](#cloud_security_essentials)
 
-6. 🧪 [Hands-On Labs and Projects](#Hands_On_Labs_Projects)
+6. 🧪 [Hands-On Labs and Projects](#hands_on_labs_projects)
 
-7. 🔗 [Useful Resources](#Useful_Resources)
+7. 🔗 [Useful Resources](#useful_resources)
 
 ------------------------------------------------------
 
@@ -61,7 +61,7 @@ Feel free to reach out if you have questions, want to collaborate, or need guida
 
 ## 🛠️ Version Control & Architecture<a name="version_control_architecture"></a>
 
-## 🧰 Security Tools and Frameworks<a name="security-tools-and-frameworks"></a>
+## 💻 Linux, Bash, and Automation<a name="linux_bash_automation"></a>
 - <b>[Setting Up SSH Keys for GitHub Access](https://github.com/Sylkpac/Github)<b>
 - <b>[Version Controlling using Git](https://github.com/Sylkpac/Github/blob/main/README.md#version-controlling-using-git)<b>
 - <b>[Collaborating with Git – Using Branches and Pull Requests](https://github.com/Sylkpac/Github/blob/main/README.md#collaborating-with-git--using-branches-and-pull-requests)<b>
@@ -70,17 +70,19 @@ Feel free to reach out if you have questions, want to collaborate, or need guida
 - <b>[Creating and Managing S3 Buckets Using AWS CLI for Secure Cloud Storage](https://github.com/Sylkpac/AWS/blob/main/README.md#creating_s3)
 - <b>[Creating IAM Users and Assigning Read-Only Access to S3 via AWS CLI](https://github.com/Sylkpac/AWS/blob/main/README.md#creating_iam)
 
-## 🧪 Mockups & Labs<a name="mockups-and-labs"></a>
+## ☁️ Infrastructure and DevOps<a name="infrastructure_devops"></a>
 - <b> [Web Application Architecture on AWS With Summary and Flow](https://github.com/Sylkpac/AWS/blob/main/README.md#webapp_arch)
 
-## ✏️ Learn Cloud and Security Engineering<a name="learncloudandsecurity"></a>
+## 🔒 Cloud Security Essentials<a name="cloud_security_essentials"></a>
 - <b>[tmux: A Powerful Multi-Pane Terminal](https://github.com/Sylkpac/tmux)<b>
 - <b>[Learn How to Use cURL: A Beginner's Guide to Making Web Requests](https://github.com/Sylkpac/cURL)<b>
 - <b>[Trace the Route!](https://github.com/Sylkpac/traceroute)<b>
 - <b>[Find Your Public and Private IP](https://github.com/Sylkpac/Find-your-Public-IP/tree/main)<b>
 - <b>[Designing and Evaluating Architectural Styles for E-commerce Solutionss](https://github.com/Sylkpac/AWS/tree/main?tab=readme-ov-file#ecommerce_styles)<b>
 
-## 🔗 Useful Weblinks<a name="useful-weblinks"></a>
+## 🧪 Hands-On Labs and Projects="hands_on_labs_projects"></a>
 - <b>[Windows Package Manager explained and installation](https://youtu.be/7Eiuvy5_dh8?si=PCtAZ7XT5jSe6vRK)<b>
 - <b> [AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/)<b>
 - <b> [Git Command CheatSheet](https://soleyman.notion.site/Git-Cheatsheet-Cloud-Engineer-Academy-140e857569c380b0aa0fcf1cc42ef643)
+
+## 🔗 Useful Resources="useful_resources"></a>
