@@ -80,9 +80,9 @@ Feel free to reach out if you have questions, want to collaborate, or need guida
 - <b>[Find Your Public and Private IP](https://github.com/Sylkpac/Find-your-Public-IP/tree/main)<b>
 - <b>[Designing and Evaluating Architectural Styles for E-commerce Solutionss](https://github.com/Sylkpac/AWS/tree/main?tab=readme-ov-file#ecommerce_styles)<b>
 
-## 🧪 Hands-On Labs and Projects="hands_on_labs_projects"></a>
+## 🧪 Hands-On Labs and Projects<a name="hands_on_labs_projects"></a>
 - <b>[Windows Package Manager explained and installation](https://youtu.be/7Eiuvy5_dh8?si=PCtAZ7XT5jSe6vRK)<b>
 - <b> [AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/)<b>
 - <b> [Git Command CheatSheet](https://soleyman.notion.site/Git-Cheatsheet-Cloud-Engineer-Academy-140e857569c380b0aa0fcf1cc42ef643)
 
-## 🔗 Useful Resources="useful_resources"></a>
+## 🔗 Useful Resources<a name="useful_resources"></a>
