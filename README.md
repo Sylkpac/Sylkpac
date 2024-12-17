@@ -58,31 +58,31 @@ Feel free to reach out if you have questions, want to collaborate, or need guida
 ------------------------------------------------------
 
 ## 🚀 Cloud Engineering Foundations<a name="cloud_engineering_foundations"></a>
-
-## 🛠️ Version Control & Architecture<a name="version_control_architecture"></a>
-
-## 💻 Linux, Bash, and Automation<a name="linux_bash_automation"></a>
 - <b>[Setting Up SSH Keys for GitHub Access](https://github.com/Sylkpac/Github)<b>
 - <b>[Version Controlling using Git](https://github.com/Sylkpac/Github/blob/main/README.md#version-controlling-using-git)<b>
 - <b>[Collaborating with Git – Using Branches and Pull Requests](https://github.com/Sylkpac/Github/blob/main/README.md#collaborating-with-git--using-branches-and-pull-requests)<b>
+
+## 🛠️ Version Control & Architecture<a name="version_control_architecture"></a>
+- <b>[Designing and Evaluating Architectural Styles for E-commerce Solutionss](https://github.com/Sylkpac/AWS/tree/main?tab=readme-ov-file#ecommerce_styles)<b>
+- <b>[Web Application Architecture on AWS With Summary and Flow](https://github.com/Sylkpac/AWS/blob/main/README.md#webapp_arch)
+
+## 💻 Linux, Bash, and Automation<a name="linux_bash_automation"></a>
+- <b>[tmux: A Powerful Multi-Pane Terminal](https://github.com/Sylkpac/tmux)<b>
+- <b>[Learn How to Use cURL: A Beginner's Guide to Making Web Requests](https://github.com/Sylkpac/cURL)<b>
+- <b>[Trace the Route!](https://github.com/Sylkpac/traceroute)<b>
+- <b>[Find Your Public and Private IP](https://github.com/Sylkpac/Find-your-Public-IP/tree/main)<b>
+
+## ☁️ Infrastructure and DevOps<a name="infrastructure_devops"></a>
 - <b>[Securing AWS Accounts and Setting Up Billing Budgets for Cloud Operations](https://github.com/Sylkpac/AWS/blob/main/README.md#securing_aws_accounts)<b>
 - <b>[Configuring AWS CLI for Secure Cloud Operations](https://github.com/Sylkpac/AWS/blob/main/README.md#configuring-aws-cli)<b>
 - <b>[Creating and Managing S3 Buckets Using AWS CLI for Secure Cloud Storage](https://github.com/Sylkpac/AWS/blob/main/README.md#creating_s3)
 - <b>[Creating IAM Users and Assigning Read-Only Access to S3 via AWS CLI](https://github.com/Sylkpac/AWS/blob/main/README.md#creating_iam)
 
-## ☁️ Infrastructure and DevOps<a name="infrastructure_devops"></a>
-- <b> [Web Application Architecture on AWS With Summary and Flow](https://github.com/Sylkpac/AWS/blob/main/README.md#webapp_arch)
-
 ## 🔒 Cloud Security Essentials<a name="cloud_security_essentials"></a>
-- <b>[tmux: A Powerful Multi-Pane Terminal](https://github.com/Sylkpac/tmux)<b>
-- <b>[Learn How to Use cURL: A Beginner's Guide to Making Web Requests](https://github.com/Sylkpac/cURL)<b>
-- <b>[Trace the Route!](https://github.com/Sylkpac/traceroute)<b>
-- <b>[Find Your Public and Private IP](https://github.com/Sylkpac/Find-your-Public-IP/tree/main)<b>
-- <b>[Designing and Evaluating Architectural Styles for E-commerce Solutionss](https://github.com/Sylkpac/AWS/tree/main?tab=readme-ov-file#ecommerce_styles)<b>
 
 ## 🧪 Hands-On Labs and Projects<a name="hands_on_labs_projects"></a>
-- <b>[Windows Package Manager explained and installation](https://youtu.be/7Eiuvy5_dh8?si=PCtAZ7XT5jSe6vRK)<b>
-- <b> [AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/)<b>
-- <b> [Git Command CheatSheet](https://soleyman.notion.site/Git-Cheatsheet-Cloud-Engineer-Academy-140e857569c380b0aa0fcf1cc42ef643)
 
 ## 🔗 Useful Resources<a name="useful_resources"></a>
+- <b> [Windows Package Manager explained and installation](https://youtu.be/7Eiuvy5_dh8?si=PCtAZ7XT5jSe6vRK)<b>
+- <b> [AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/)<b>
+- <b> [Git Command CheatSheet](https://soleyman.notion.site/Git-Cheatsheet-Cloud-Engineer-Academy-140e857569c380b0aa0fcf1cc42ef643)
