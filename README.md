@@ -1,26 +1,25 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sarah!
 ================================================================================================================================
 
-Cloud Security Engineer
+AWS Cloud Engineering & Security
 ---------------------
-### Welcome to my GitHub!
-I'm on a mission to become a Cloud Security Engineer. This repository showcases my growing knowledge and practical experience in the cybersecurity field.
+### Welcome to My GitHub Repository!
+As a Cloud Engineer with a focus on security, I use this space to document my knowledge, experience, and solutions to real-world Cloud challenges. This repository serves as a knowledge base for colleagues, students, and anyone seeking to deepen their understanding of cloud security and AWS practices.
 
-### What's in it for you?
+### How This Repository Can Help You
 
-* **Learn from my journey:** 
-Witness my progression towards becoming a Cloud Security Engineer through labs, write-ups, and projects.
-* **Gain valuable insights:** 
-Explore solutions to security challenges I've encountered.
-* **Stay ahead of the curve:** 
-Discover the latest tools and techniques I'm learning and implementing.
+* **Practical Insights:** 
+Learn from my hands-on experience tackling security challenges and implementing cloud solutions.
+* **Training Resources:** 
+Explore labs, tools, and frameworks to accelerate learning. 
+* **Industry Techniques:** 
+Stay up to date with tools, techniques, and best practices I’ve adopted to secure cloud environments effectively.
 
-### Always Learning:
-I'm always learning, whether it's on my own, while supporting clients at work, or staying active in my local cyber community. I make sure to get the exposure I need to keep improving my skills.
+### A Commitment to Growth
+While I continue to enhance my skills through work, collaboration, and research, I’m equally committed to sharing what I learn. Whether you're a colleague, a student, or a fellow professional, this repository is here to **support your growth** in cloud engineering and security.
 
-### Join the Journey!
-Join me on my journey toward becoming a Cloud Security Engineer and learn alongside me. Feel free to reach out with any questions or if you'd like to collaborate!
-
+### Let’s Learn Together!
+Feel free to reach out if you have questions, want to collaborate, or need guidance on specific topics. Knowledge is most powerful when shared, and I’m here to help!
 
 * 🌍  I'm based in Florida
 * ✉️  You can contact me at [www.linkedin.com/in/sarah-camacho2023](mailto:www.linkedin.com/in/sarah-camacho2023)
@@ -42,21 +41,23 @@ Join me on my journey toward becoming a Cloud Security Engineer and learn alongs
 
 <h2>👨‍💻 Table of Contents:</h2>
 
-1. 🔬 [Security Research Projects](#security-research-projects)
+1. 🚀 [Cloud Engineering Foundations](#cloud_engineering_foundations)
 
-2. 📝 [Publication/Reports - My thoughts](#publicationreports)
+2. 🛠️ [Version Control & Architecture](#Version_Control_Architecture)
 
-3. 🧰 [Security Tools and Frameworks](#security-tools-and-frameworks)
+3. 💻 [Linux, Bash, and Automation](#Linux_Bash_Automation)
 
-4. 🧪 [Mockups & Labs](#mockups-and-labs)
+4. ☁️ [Infrastructure and DevOps](#Infrastructure_DevOps)
 
-5. ✏️ [Learn Cloud and Security Engineering](#learncloudandsecurity)
+5. 🔒 [Cloud Security Essentials](#Cloud_Security_Essentials)
 
-6. 🔗 [Useful Weblinks](#useful-weblinks)
+6. 🧪 [Hands-On Labs and Projects](#Hands_On_Labs_Projects)
+
+7. 🔗 [Useful Resources](#Useful_Resources)
 
 ------------------------------------------------------
 
-## 🔬 Security Research Projects<a name="security-research-projects"></a>
+## 🚀 Cloud Engineering Foundations<a name="cloud_engineering_foundations"></a>
 
 ## 📝 Publication/Reports - My thoughts<a name="publicationreports"></a>
 
