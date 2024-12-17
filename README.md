@@ -59,7 +59,7 @@ Feel free to reach out if you have questions, want to collaborate, or need guida
 
 ## 🚀 Cloud Engineering Foundations<a name="cloud_engineering_foundations"></a>
 
-## 📝 Publication/Reports - My thoughts<a name="publicationreports"></a>
+## 🛠️ Version Control & Architecture<a name="Version_Control_Architecture"></a>
 
 ## 🧰 Security Tools and Frameworks<a name="security-tools-and-frameworks"></a>
 - <b>[Setting Up SSH Keys for GitHub Access](https://github.com/Sylkpac/Github)<b>
