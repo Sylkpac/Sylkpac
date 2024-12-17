@@ -43,7 +43,7 @@ Feel free to reach out if you have questions, want to collaborate, or need guida
 
 1. 🚀 [Cloud Engineering Foundations](#cloud_engineering_foundations)
 
-2. 🛠️ [Version Control & Architecture](#Version_Control_Architecture)
+2. 🛠️ [Version Control & Architecture](#version_control_architecture)
 
 3. 💻 [Linux, Bash, and Automation](#Linux_Bash_Automation)
 
@@ -59,7 +59,7 @@ Feel free to reach out if you have questions, want to collaborate, or need guida
 
 ## 🚀 Cloud Engineering Foundations<a name="cloud_engineering_foundations"></a>
 
-## 🛠️ Version Control & Architecture<a name="Version_Control_Architecture"></a>
+## 🛠️ Version Control & Architecture<a name="version_control_architecture"></a>
 
 ## 🧰 Security Tools and Frameworks<a name="security-tools-and-frameworks"></a>
 - <b>[Setting Up SSH Keys for GitHub Access](https://github.com/Sylkpac/Github)<b>
