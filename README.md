@@ -77,6 +77,7 @@ Feel free to reach out if you have questions, want to collaborate, or need guida
 - <b>[Configuring AWS CLI for Secure Cloud Operations](https://github.com/Sylkpac/AWS/blob/main/README.md#configuring-aws-cli)<b>
 - <b>[Creating and Managing S3 Buckets Using AWS CLI for Secure Cloud Storage](https://github.com/Sylkpac/AWS/blob/main/README.md#creating_s3)
 - <b>[Creating IAM Users and Assigning Read-Only Access to S3 via AWS CLI](https://github.com/Sylkpac/AWS/blob/main/README.md#creating_iam)
+- <b>[Designing Scalable Architecture](https://github.com/Sylkpac/AWS/blob/main/README.md#designing_scalable_architecture)
 
 ## 🔒 Cloud Security Essentials<a name="cloud_security_essentials"></a>
 
