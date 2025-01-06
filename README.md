@@ -65,6 +65,7 @@ Feel free to reach out if you have questions, want to collaborate, or need guida
 ## 🛠️ Version Control & Architecture<a name="version_control_architecture"></a>
 - <b>[Designing and Evaluating Architectural Styles for E-commerce Solutionss](https://github.com/Sylkpac/AWS/tree/main?tab=readme-ov-file#ecommerce_styles)<b>
 - <b>[Web Application Architecture on AWS With Summary and Flow](https://github.com/Sylkpac/AWS/blob/main/README.md#webapp_arch)
+- <b>[System Design for a Video-Sharing Platform](https://github.com/Sylkpac/AWS/blob/main/README.md#video_sharing_platform)
 
 ## 💻 Linux, Bash, and Automation<a name="linux_bash_automation"></a>
 - <b>[tmux: A Powerful Multi-Pane Terminal](https://github.com/Sylkpac/tmux)<b>
