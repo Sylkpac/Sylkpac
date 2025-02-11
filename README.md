@@ -70,6 +70,7 @@ I'm always learning whether at work, through research, or by chatting with fello
 - <b>[Trace the Route!](https://github.com/Sylkpac/traceroute)<b>
 - <b>[Find Your Public and Private IP](https://github.com/Sylkpac/Find-your-Public-IP/tree/main)<b>
 - <b>[Linux Cheat Sheet for Cloud & Security: Directories, Commands & Best Practices](https://github.com/Sylkpac/Linux/blob/main/README.md#linuxcheatsheet)<b>
+- <b>[Understanding File Permissions in Linux (Bash)](https://github.com/Sylkpac/Linux/blob/main/README.md#filelinux)<b>
 
 ## ☁️ Infrastructure and DevOps<a name="infrastructure_devops"></a>
 - <b>[Securing AWS Accounts and Setting Up Billing Budgets for Cloud Operations](https://github.com/Sylkpac/AWS/blob/main/README.md#securing_aws_accounts)<b>
