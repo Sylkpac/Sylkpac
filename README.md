@@ -77,6 +77,7 @@ I'm always learning whether at work, through research, or by chatting with fello
 - <b>[Creating and Managing S3 Buckets Using AWS CLI for Secure Cloud Storage](https://github.com/Sylkpac/AWS/blob/main/README.md#creating_s3)
 - <b>[Creating IAM Users and Assigning Read-Only Access to S3 via AWS CLI](https://github.com/Sylkpac/AWS/blob/main/README.md#creating_iam)
 - <b>[Designing Scalable Architecture](https://github.com/Sylkpac/AWS/blob/main/README.md#designing_scalable_architecture)
+- <b>[Creating IAM to deploy to S3](https://github.com/Sylkpac/AWS/blob/main/README.md#iamtos3)
 
 ## 🔒 Cloud Security Essentials<a name="cloud_security_essentials"></a>
 
