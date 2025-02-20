@@ -19,7 +19,7 @@ Easy-to-follow advice and best practices that I've picked up along the way.
 I'm always learning whether at work, through research, or by chatting with fellow cyber enthusiasts. I believe the best way to grow is by sharing what you know, so feel free to explore and ask questions.
 
 * 🌍  I'm based in Florida
-* ✉️  You can contact me at [www.linkedin.com/in/sarah-camacho2023](www.linkedin.com/in/sarah-camacho2023)
+* ✉️  You can contact me at [www.linkedin.com/in/sarah-camacho2023](www.linkedin.com/in/sarah-c2023)
 * 🧠  I'm on a journey to becoming a Cloud Security Engineer
 * 🤝  I'm open to collaborating with Exam Studies
 * ⚡  I want to be good and do good for the world <3
