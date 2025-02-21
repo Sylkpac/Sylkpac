@@ -81,6 +81,7 @@ I'm always learning whether at work, through research, or by chatting with fello
 - <b>[Creating IAM to deploy to S3](https://github.com/Sylkpac/AWS/blob/main/README.md#iamtos3)
 
 ## 🔒 Cloud Security Essentials<a name="cloud_security_essentials"></a>
+- <b>[Building a Secure and Scalable AWS VPC: A Thought Process Guide](https://github.com/Sylkpac/Security/blob/main/README.md#buildingvpc)
 
 ## 🧪 Hands-On Labs and Projects<a name="hands_on_labs_projects"></a>
 
