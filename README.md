@@ -59,7 +59,7 @@ I'm always learning whether at work, through research, or by chatting with fello
 - <b>[Version Controlling using Git](https://github.com/Sylkpac/Github/blob/main/README.md#version-controlling-using-git)<b>
 - <b>[Collaborating with Git – Using Branches and Pull Requests](https://github.com/Sylkpac/Github/blob/main/README.md#collaborating-with-git--using-branches-and-pull-requests)<b>
 - <b>[Creating a No-Cost VPC (Basics)](https://github.com/Sylkpac/Github/blob/main/README.md#createvpc)<b>
-- <b>[Adding a Bastion Host to Your VPC)](https://github.com/Sylkpac/AWS/blob/main/README.md#bastionvpc)<b>
+- <b>[Adding a Bastion Host to Your VPC](https://github.com/Sylkpac/AWS/blob/main/README.md#bastionvpc)<b>
 
 ## 🛠️ Version Control & Architecture<a name="version_control_architecture"></a>
 - <b>[Designing and Evaluating Architectural Styles for E-commerce Solutionss](https://github.com/Sylkpac/AWS/tree/main?tab=readme-ov-file#ecommerce_styles)<b>
