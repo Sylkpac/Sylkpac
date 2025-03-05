@@ -41,17 +41,17 @@ I'm always learning whether at work, through research, or by chatting with fello
 
 1. 🚀 [Cloud Engineering Foundations](#cloud_engineering_foundations)
 
-2. 🛠️ [Version Control & Architecture](#version_control_architecture)
+2. 🏗️ [Cloud Architecture & System Design](#version_control_architecture)
 
 3. 💻 [Linux, Bash, and Automation](#linux_bash_automation)
 
-4. ☁️ [Infrastructure and DevOps](#infrastructure_devops)
+4. ☁️ [Infrastructure as Code & DevOps](#infrastructure_devops)
 
-5. 🔒 [Cloud Security Essentials](#cloud_security_essentials)
+5. 🔒 [Cloud Security & Compliance](#cloud_security_essentials)
 
 6. 🧪 [Hands-On Labs and Projects](#hands_on_labs_projects)
 
-7. 🔗 [Useful Resources](#useful_resources)
+7. 🔗 [Reference & Cheat Sheets](#useful_resources)
 
 ------------------------------------------------------
 
@@ -63,7 +63,7 @@ I'm always learning whether at work, through research, or by chatting with fello
 - <b>[Adding a Bastion Host to Your VPC](https://github.com/Sylkpac/AWS/blob/main/README.md#bastionvpc)<b>
 - <b>[How to SSH into Your AWS EC2 Instance](https://github.com/Sylkpac/AWS/blob/main/README.md#sshec2)<b>
 
-## 🛠️ Version Control & Architecture<a name="version_control_architecture"></a>
+## 🏗️ Cloud Architecture & System Design<a name="version_control_architecture"></a>
 - <b>[Designing and Evaluating Architectural Styles for E-commerce Solutionss](https://github.com/Sylkpac/AWS/tree/main?tab=readme-ov-file#ecommerce_styles)<b>
 - <b>[Web Application Architecture on AWS With Summary and Flow](https://github.com/Sylkpac/AWS/blob/main/README.md#webapp_arch)
 - <b>[System Design for a Video-Sharing Platform](https://github.com/Sylkpac/AWS/blob/main/README.md#video_sharing_platform)
@@ -76,7 +76,7 @@ I'm always learning whether at work, through research, or by chatting with fello
 - <b>[Linux Cheat Sheet for Cloud & Security: Directories, Commands & Best Practices](https://github.com/Sylkpac/Linux/blob/main/README.md#linuxcheatsheet)<b>
 - <b>[Understanding File Permissions in Linux (Bash)](https://github.com/Sylkpac/Linux/blob/main/README.md#filelinux)<b>
 
-## ☁️ Infrastructure and DevOps<a name="infrastructure_devops"></a>
+## ☁️ Infrastructure as Code & DevOps<a name="infrastructure_devops"></a>
 - <b>[Securing AWS Accounts and Setting Up Billing Budgets for Cloud Operations](https://github.com/Sylkpac/AWS/blob/main/README.md#securing_aws_accounts)<b>
 - <b>[Configuring AWS CLI for Secure Cloud Operations](https://github.com/Sylkpac/AWS/blob/main/README.md#configuring-aws-cli)<b>
 - <b>[Creating and Managing S3 Buckets Using AWS CLI for Secure Cloud Storage](https://github.com/Sylkpac/AWS/blob/main/README.md#creating_s3)
@@ -84,12 +84,12 @@ I'm always learning whether at work, through research, or by chatting with fello
 - <b>[Designing Scalable Architecture](https://github.com/Sylkpac/AWS/blob/main/README.md#designing_scalable_architecture)
 - <b>[Creating IAM to deploy to S3](https://github.com/Sylkpac/AWS/blob/main/README.md#iamtos3)
 
-## 🔒 Cloud Security Essentials<a name="cloud_security_essentials"></a>
+## 🔒 Cloud Security & Compliance<a name="cloud_security_essentials"></a>
 - <b>[Building a Secure and Scalable AWS VPC: A Thought Process Guide](https://github.com/Sylkpac/Security/blob/main/README.md#buildingvpc)
 
 ## 🧪 Hands-On Labs and Projects<a name="hands_on_labs_projects"></a>
 
-## 🔗 Useful Resources<a name="useful_resources"></a>
+## 🔗 Reference & Cheat Sheets<a name="useful_resources"></a>
 - <b> [Windows Package Manager explained and installation](https://youtu.be/7Eiuvy5_dh8?si=PCtAZ7XT5jSe6vRK)<b>
 - <b> [AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/)<b>
 - <b> [Git Command CheatSheet](https://soleyman.notion.site/Git-Cheatsheet-Cloud-Engineer-Academy-140e857569c380b0aa0fcf1cc42ef643)
