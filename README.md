@@ -86,6 +86,7 @@ I'm always learning whether at work, through research, or by chatting with fello
 
 ## 🔒 Cloud Security & Compliance<a name="cloud_security_essentials"></a>
 - <b>[Building a Secure and Scalable AWS VPC: A Thought Process Guide](https://github.com/Sylkpac/Security/blob/main/README.md#buildingvpc)
+- <b> [Testing SSH Connections to a Bastion Host (Routing Visualized)](https://github.com/Sylkpac/Security/blob/main/README.md#sshtest)<b>
 
 ## 🧪 Hands-On Labs and Projects<a name="hands_on_labs_projects"></a>
 
