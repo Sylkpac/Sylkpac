@@ -95,3 +95,4 @@ I'm always learning whether at work, through research, or by chatting with fello
 - <b> [Windows Package Manager explained and installation](https://youtu.be/7Eiuvy5_dh8?si=PCtAZ7XT5jSe6vRK)<b>
 - <b> [AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/)<b>
 - <b> [Git Command CheatSheet](https://soleyman.notion.site/Git-Cheatsheet-Cloud-Engineer-Academy-140e857569c380b0aa0fcf1cc42ef643)
+- <b> [Git Cheatsheet: Commands, Tips and Tricks](https://jdsalaro.com/cheatsheet/git/index.html)
