@@ -57,7 +57,7 @@ I'm always learning whether at work, through research, or by chatting with fello
 
 ## 🚀 Cloud Engineering Foundations<a name="cloud_engineering_foundations"></a>
 - <b>[Setting Up SSH Keys for GitHub Access](https://github.com/Sylkpac/Github)<b>
-- <b>[Version Controlling using Git](https://github.com/Sylkpac/Github/blob/main/README.md#version-controlling-using-git)<b>
+- <b>[Version Controlling using Git/Cloning Repositories](https://github.com/Sylkpac/Github/blob/main/README.md#version-controlling-using-git)<b>
 - <b>[Collaborating with Git – Using Branches and Pull Requests](https://github.com/Sylkpac/Github/blob/main/README.md#collaborating-with-git--using-branches-and-pull-requests)<b>
 - <b>[Creating a No-Cost VPC (Basics)](https://github.com/Sylkpac/Github/blob/main/README.md#createvpc)<b>
 - <b>[Adding a Bastion Host to Your VPC](https://github.com/Sylkpac/AWS/blob/main/README.md#bastionvpc)<b>
