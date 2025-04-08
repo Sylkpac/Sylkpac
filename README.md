@@ -84,6 +84,7 @@ I'm always learning whether at work, through research, or by chatting with fello
 - <b>[Creating IAM Users and Assigning Read-Only Access to S3 via AWS CLI](https://github.com/Sylkpac/AWS/blob/main/README.md#creating_iam)
 - <b>[Designing Scalable Architecture](https://github.com/Sylkpac/AWS/blob/main/README.md#designing_scalable_architecture)
 - <b>[Creating IAM to deploy to S3](https://github.com/Sylkpac/AWS/blob/main/README.md#iamtos3)
+- <b>[Connecting Visual Studio Code to AWS CLI & Creating an S3 Bucket](https://github.com/Sylkpac/AWS/blob/main/README.md#vscaws)
 
 ## 🔒 Cloud Security & Compliance<a name="cloud_security_essentials"></a>
 - <b>[Building a Secure and Scalable AWS VPC: A Thought Process Guide](https://github.com/Sylkpac/Security/blob/main/README.md#buildingvpc)
