@@ -85,6 +85,7 @@ I'm always learning whether at work, through research, or by chatting with fello
 - <b>[Designing Scalable Architecture](https://github.com/Sylkpac/AWS/blob/main/README.md#designing_scalable_architecture)
 - <b>[Creating IAM to deploy to S3](https://github.com/Sylkpac/AWS/blob/main/README.md#iamtos3)
 - <b>[Connecting Visual Studio Code to AWS CLI & Creating an S3 Bucket](https://github.com/Sylkpac/AWS/blob/main/README.md#vscaws)
+- <b>[Deploying and Debugging an S3 Bucket Template](https://github.com/Sylkpac/AWS/blob/main/README.md#deploydebug)
 
 ## 🔒 Cloud Security & Compliance<a name="cloud_security_essentials"></a>
 - <b>[Building a Secure and Scalable AWS VPC: A Thought Process Guide](https://github.com/Sylkpac/Security/blob/main/README.md#buildingvpc)
