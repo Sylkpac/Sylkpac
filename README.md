@@ -87,6 +87,7 @@ I'm always learning whether at work, through research, or by chatting with fello
 - <b>[Connecting Visual Studio Code to AWS CLI & Creating an S3 Bucket](https://github.com/Sylkpac/AWS/blob/main/README.md#vscaws)
 - <b>[Deploying and Debugging an S3 Bucket Template](https://github.com/Sylkpac/AWS/blob/main/README.md#deploydebug)
 - <b>[Creating a VPC with Subnets using CloudFormation](https://github.com/Sylkpac/AWS/blob/main/README.md#vpcwsubnets)
+- <b>[Adding Networking to Your VPC & Troubleshooting CloudFormation Errors](https://github.com/Sylkpac/AWS/blob/main/README.md#vpcnetwork)
 
 ## 🔒 Cloud Security & Compliance<a name="cloud_security_essentials"></a>
 - <b>[Building a Secure and Scalable AWS VPC: A Thought Process Guide](https://github.com/Sylkpac/Security/blob/main/README.md#buildingvpc)
