@@ -101,3 +101,8 @@ I'm always learning whether at work, through research, or by chatting with fello
 - <b> [Git Command CheatSheet](https://soleyman.notion.site/Git-Cheatsheet-Cloud-Engineer-Academy-140e857569c380b0aa0fcf1cc42ef643)
 - <b> [Git Cheatsheet: Commands, Tips and Tricks](https://jdsalaro.com/cheatsheet/git/index.html)
 - <b> [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+- <b> [AWS CloudFormation Documentation (Links to sub-docs: User Guide, API Reference, CLI Reference)](https://docs.aws.amazon.com/cloudformation/)
+- <b> [CloudFormation CLI Reference(CLI command syntax)](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/)
+- <b> [CloudFormation API Reference (All the low-level API operations)](https://docs.aws.amazon.com/AWSCloudFormation/latest/APIReference/Welcome.html)
+
+
