@@ -104,5 +104,6 @@ I'm always learning whether at work, through research, or by chatting with fello
 - <b> [AWS CloudFormation Documentation (Links to sub-docs: User Guide, API Reference, CLI Reference)](https://docs.aws.amazon.com/cloudformation/)
 - <b> [CloudFormation CLI Reference(CLI command syntax)](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/)
 - <b> [CloudFormation API Reference (All the low-level API operations)](https://docs.aws.amazon.com/AWSCloudFormation/latest/APIReference/Welcome.html)
+- <b> [HTML Cheat Sheet](https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf)
 
 
