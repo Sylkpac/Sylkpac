@@ -16,7 +16,7 @@ Labs, tools, and frameworks to help you get your hands dirty.
 Easy-to-follow advice and best practices that I've picked up along the way.
 
 ### A Little About Me
-I'm always learning whether at work, through research, or by chatting with fellow cyber enthusiasts. I believe the best way to grow is by sharing what you know, so feel free to explore and ask questions.
+I'm always learning whether at work, through research, or by chatting with fellow cyber friends. I believe the best way to grow is by sharing what you know, so feel free to explore and ask questions.
 
 * 🌍  I'm based in Florida
 * ✉️  You can contact me at [www.linkedin.com/in/sarah-c2023](https://www.linkedin.com/in/sarah-c2023/)
