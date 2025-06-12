@@ -1,22 +1,34 @@
 ![](https://raw.githubusercontent.com/Sylkpac/Files-/refs/heads/main/cropped%20cloud.png)
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sarah!
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sarah!    
 ================================================================================================================================
-AWS Cloud Engineering & Security
 ---------------------
-### Welcome to My GitHub Repository!
-I'm a Cloud Engineer who works in Cybersecurity, and this is my spot to jot down what I learn while tackling cloud and security challenges. Whether you're curious about AWS, security, or just looking for some hands-on examples, I hope you find something useful here.
+# Welcome to My GitHub Repository!
+I'm a Cloud Engineer who focuses on Security. I'm learning AWS by building *real* solutions, not memorizing flashcards.
 
-### What You'll Find Here
+## My why
+I'm not trying to become a walking AWS encyclopedia. I want to be the person who can look at your business needs, understand your constraints, and design infrastructure that actually solves your problems. Not someone who implements the latest shiny service.
 
-* **Real-World Experiences:** 
-I share the details of solving cloud security issues.
-* **Resources:** 
-Labs, tools, and frameworks to help you get your hands dirty.
-* **Practical Tips:** 
-Easy-to-follow advice and best practices that I've picked up along the way.
+**Every lab here answers**: "When would I use this? What are the alternatives? What happens when requirements change?"
 
-### A Little About Me
-I'm always learning whether at work, through research, or by chatting with fellow cyber friends. I believe the best way to grow is by sharing what you know, so feel free to explore and ask questions.
+## How I do it
+I turn every AWS concept into hands-on labs where I can see actual use and impact. Then I document not just what I built, but why I chose one approach over another to really deliver business value. 
+
+I practice making judgment calls for different scenarios, examples:
+
+* Startup with $5K/month budget vs. enterprise with compliance needs
+* 100 users vs. 100,000 users
+* Security requirements vs. user experience
+
+## What You'll Find 
+
+* AWS Hands-On Labs - Implementations on why I made them, explained.
+* Decision Frameworks - How I evaluate technical choices and tradeoffs.
+* Case Studies - Startup budgets, enterprise migrations, disaster recovery, etc.
+
+## Who This Is For
+* Recruiters - See how I think through business challenges, not just technical demos (like everyone else).
+* Engineers - Templates, frameworks, and approaches you can use or improve.
+* Students - Follow my learning journey.
 
 * 🌍  I'm based in Florida
 * ✉️  You can contact me at [www.linkedin.com/in/sarah-c2023](https://www.linkedin.com/in/sarah-c2023/)
