@@ -2,15 +2,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sarah!    
 ================================================================================================================================
 ---------------------
-# Welcome to My GitHub Repository!
+## Welcome to My GitHub Repository!
 I'm a Cloud Engineer who focuses on Security. I'm learning AWS by building *real* solutions, not memorizing flashcards.
 
-## My why
+## My Why
 I'm not trying to become a walking AWS encyclopedia. I want to be the person who can look at your business needs, understand your constraints, and design infrastructure that actually solves your problems. Not someone who implements the latest shiny service.
 
 **Every lab here answers**: "When would I use this? What are the alternatives? What happens when requirements change?"
 
-## How I do it
+## This Is How I Do It
 I turn every AWS concept into hands-on labs where I can see actual use and impact. Then I document not just what I built, but why I chose one approach over another to really deliver business value. 
 
 I practice making judgment calls for different scenarios, examples:
