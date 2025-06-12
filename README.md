@@ -30,6 +30,8 @@ I practice making judgment calls for different scenarios, examples:
 * Engineers - Templates, frameworks, and approaches you can use or improve.
 * Students - Follow my learning journey.
 
+---------------------
+
 * 🌍  I'm based in Florida
 * ✉️  You can contact me at [www.linkedin.com/in/sarah-c2023](https://www.linkedin.com/in/sarah-c2023/)
 * 🧠  I'm on a journey to becoming a Cloud Security Engineer
