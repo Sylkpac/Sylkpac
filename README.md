@@ -1,34 +1,18 @@
 ![](https://raw.githubusercontent.com/Sylkpac/Files-/refs/heads/main/cropped%20cloud.png)
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sarah!    
+Welcome to My GitHub Repository!    
 ================================================================================================================================
----------------------
-## Welcome to My GitHub Repository!
-I'm a Cloud Engineer who focuses on Security. I'm learning AWS by building *real* solutions, not memorizing flashcards.
+I work in cloud security and threat intelligence every day. Building labs and writing guides for AWS and Azure. Everything here comes from a place of gratitude for the mentors, communities, and opportunities that have shaped my understanding of cloud security, threat intelligence, and secure infrastructure design.
 
 ## My Why
-I'm not trying to become a walking AWS encyclopedia. I want to be the person who can look at your business needs, understand your constraints, and design infrastructure that actually solves your problems. Not someone who implements the latest shiny service.
+I’m not aiming to memorize every cloud service. I want to be the engineer who can look at your business constraints, understand security and compliance requirements, and design cloud infrastructure that truly solves your problems.
 
-**Every lab here answers**: "When would I use this? What are the alternatives? What happens when requirements change?"
+Every lab here answers the questions: “When would I use this? What are the alternatives? How does this impact security, performance, and business needs?”
 
-## This Is How I Do It
-I turn every AWS concept into hands-on labs where I can see actual use and impact. Then I document not just what I built, but why I chose one approach over another to really deliver business value. 
-
-I practice making judgment calls for different scenarios, examples:
-
-* Startup with $5K/month budget vs. enterprise with compliance needs
-* 100 users vs. 100,000 users
-* Security requirements vs. user experience
-
-## What You'll Find 
-
-* AWS Hands-On Labs - Implementations on why I made them, explained.
-* Decision Frameworks - How I evaluate technical choices and tradeoffs.
-* Case Studies - Startup budgets, enterprise migrations, disaster recovery, etc.
-
-## Who This Is For
-* Recruiters - See how I think through business challenges, not just technical demos (like everyone else).
-* Engineers - Templates, frameworks, and approaches you can use or improve.
-* Students - Follow my learning journey.
+## What You’ll Find Here
+* AWS & Azure Labs: Practical, security-focused guides with explanations
+* My Decision Thought Process: How I evaluate cloud security, architecture, and operational trade-offs
+* Real-world Inspired Guides: Cloud Security, Threat Intelligence, Risk Management 
 
 ---------------------
 
