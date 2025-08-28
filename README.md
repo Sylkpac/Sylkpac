@@ -5,9 +5,10 @@ Welcome to My GitHub Repository!
 I work in cloud security and threat intelligence every day. Building labs and writing guides for AWS and Azure. Everything here comes from a place of gratitude for the mentors, communities, and opportunities that have shaped my understanding of cloud security, threat intelligence, and secure infrastructure design.
 
 ## My Why
-I’m not aiming to memorize every cloud service. I want to be the engineer who can look at your business constraints, understand security and compliance requirements, and design cloud infrastructure that truly solves your problems.
+I’m not aiming to memorize every cloud service. I want to be the secuirty engineer who can look at your business constraints, understand security and compliance requirements, and design cloud infrastructure that truly solves your problems.
 
-Every lab here answers the questions: “When would I use this? What are the alternatives? How does this impact security, performance, and business needs?”
+My day job in threat intelligence gives me insight into attacker methods, and I’m translating that into practical cloud security projects. 
+Explore my labs and guides in the **index below** to see how I apply these concepts.
 
 ## What You’ll Find Here
 * AWS & Azure Labs: Practical, security-focused guides with explanations
