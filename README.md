@@ -35,25 +35,29 @@ Explore my labs and guides in the **index below** to see how I apply these conce
 <p align="left"> <a href="https://www.github.com/Sylkpac" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="http://www.medium.com/@sylkpac" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" /> </picture> </a> <a href="https://www.linkedin.com/in/sarah-c2023/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 
 <h2>👨‍💻 Table of Contents:</h2>
-*There's no set organization yet (still a work in progress as I keep taking notes), but you can use the index on this main page and the linked pages to find what you need.
+*There's no set organization yet (still a work in progress), but you can use the index on this main page and the linked pages to find what you're looking for. 
 
-1. 🚀 [Cloud Engineering Foundations](#cloud_engineering_foundations)
+1. 🏗️ [Cloud Foundations & Architecture](#cloud_engineering_foundations)
 
-2. 🏗️ [Cloud Architecture & System Design](#version_control_architecture)
-
-3. 💻 [Linux, Bash, and Automation](#linux_bash_automation)
+3. 💻 [PowerShell, Bash & Automations](#linux_bash_automation)
 
 4. ☁️ [Infrastructure as Code & DevOps](#infrastructure_devops)
 
 5. 🔒 [Cloud Security & Compliance](#cloud_security_essentials)
 
-6. 🧪 [Hands-On Labs and Projects](#hands_on_labs_projects)
+6. 🛡️ [Threat Detection & Response (Reactive)](#threat)
 
-7. 🔗 [Reference & Cheat Sheets](#useful_resources)
+7. 🔍 [Threat Hunting & Vulnerability Management (Proactive)](#hunt)
+
+8. 🧪 [Monitoring & Forensics](#monitor)
+
+9. 📚 [Case Studies](#case)
+
+10. 🔗 [Reference & Cheat Sheets](#useful_resources)
 
 ------------------------------------------------------
 
-## 🚀 Cloud Engineering Foundations<a name="cloud_engineering_foundations"></a>
+## 🏗️ Cloud Foundations & Architecture<a name="cloud_engineering_foundations"></a>
 - <b>[Setting Up SSH Keys for GitHub Access](https://github.com/Sylkpac/Github)<b>
 - <b>[Cloning Repositories/Version Controlling using Git](https://github.com/Sylkpac/Github/blob/main/README.md#version-controlling-using-git)<b>
 - <b>[Collaborating with Git – Using Branches and Pull Requests](https://github.com/Sylkpac/Github/blob/main/README.md#collaborating-with-git--using-branches-and-pull-requests)<b>
@@ -61,13 +65,12 @@ Explore my labs and guides in the **index below** to see how I apply these conce
 - <b>[Adding a Bastion Host to Your VPC](https://github.com/Sylkpac/AWS/blob/main/README.md#bastionvpc)<b>
 - <b>[How to SSH into Your AWS EC2 Instance](https://github.com/Sylkpac/AWS/blob/main/README.md#sshec2)<b>
 - <b>[Using a Bastion Host to Securely SSH into Private EC2 Instances Across Availability Zones](https://github.com/Sylkpac/AWS/blob/main/README.md#sshprivate)<b>
-
-## 🏗️ Cloud Architecture & System Design<a name="version_control_architecture"></a>
 - <b>[Designing and Evaluating Architectural Styles for E-commerce Solutionss](https://github.com/Sylkpac/AWS/tree/main?tab=readme-ov-file#ecommerce_styles)<b>
 - <b>[Web Application Architecture on AWS With Summary and Flow](https://github.com/Sylkpac/AWS/blob/main/README.md#webapp_arch)
 - <b>[System Design for a Video-Sharing Platform](https://github.com/Sylkpac/AWS/blob/main/README.md#video_sharing_platform)
 
-## 💻 Linux, Bash, and Automation<a name="linux_bash_automation"></a>
+
+## 💻 PowerShell, Bash & Automations<a name="linux_bash_automation"></a>
 - <b>[tmux: A Powerful Multi-Pane Terminal](https://github.com/Sylkpac/tmux)<b>
 - <b>[Learn How to Use cURL: A Beginner's Guide to Making Web Requests](https://github.com/Sylkpac/cURL)<b>
 - <b>[Trace the Route!](https://github.com/Sylkpac/traceroute)<b>
@@ -91,7 +94,13 @@ Explore my labs and guides in the **index below** to see how I apply these conce
 - <b>[Building a Secure and Scalable AWS VPC: A Thought Process Guide](https://github.com/Sylkpac/Security/blob/main/README.md#buildingvpc)
 - <b> [Testing SSH Connections to a Bastion Host (Routing Visualized)](https://github.com/Sylkpac/Security/blob/main/README.md#sshtest)<b>
 
-## 🧪 Hands-On Labs and Projects<a name="hands_on_labs_projects"></a>
+## 🛡️ Threat Detection & Response (Reactive)<a name="threat"></a>
+
+## 🔍 Threat Hunting & Vulnerability Management (Proactive)<a name="hunt"></a>
+
+## 🧪 Monitoring & Forensics<a name="monitor"></a>
+
+## 📚 Case Studies<a name="case"></a>
 
 ## 🔗 Reference & Cheat Sheets<a name="useful_resources"></a>
 - <b> [Windows Package Manager explained and installation](https://youtu.be/7Eiuvy5_dh8?si=PCtAZ7XT5jSe6vRK)<b>
