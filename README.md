@@ -72,7 +72,7 @@ Explore my labs and guides in the **index below** to see how I apply these conce
 - <b>[tmux: A Powerful Multi-Pane Terminal](https://github.com/Sylkpac/Linux/blob/main/README.md#tmux)<b>
 - <b>[Learn How to Use cURL: A Beginner's Guide to Making Web Requests](https://github.com/Sylkpac/Linux/blob/main/README.md#curl)<b>
 - <b>[Trace the Route!](https://github.com/Sylkpac/Linux/blob/main/README.md#route)<b>
-- <b>[Find Your Public and Private IP](https://github.com/Sylkpac/Find-your-Public-IP/tree/main)<b>
+- <b>[Find Your Public and Private IP](https://github.com/Sylkpac/Linux/blob/main/README.md#finding)<b>
 - <b>[Linux Cheat Sheet for Cloud & Security: Directories, Commands & Best Practices](https://github.com/Sylkpac/Linux/blob/main/README.md#linuxcheatsheet)<b>
 - <b>[Understanding File Permissions in Linux (Bash)](https://github.com/Sylkpac/Linux/blob/main/README.md#filelinux)<b>
 
