@@ -87,14 +87,16 @@ Explore my labs and guides in the **index below** to see how I apply these conce
 - <b>[Deploying and Debugging an S3 Bucket Template](https://github.com/Sylkpac/AWS/blob/main/README.md#deploydebug)
 - <b>[Creating a VPC with Subnets using CloudFormation](https://github.com/Sylkpac/AWS/blob/main/README.md#vpcwsubnets)
 - <b>[Adding Networking to Your VPC & Troubleshooting CloudFormation Errors](https://github.com/Sylkpac/AWS/blob/main/README.md#vpcnetwork)
+- <b>[Create a Portfolio Website like a Cloud Engineer!](https://medium.com/@sylkpac/create-a-portfolio-website-like-a-cloud-engineer-0e2773d78c29)
 
 ## 🔒 Cloud Security & Compliance<a name="cloud_security_essentials"></a>
 - <b>[Building a Secure and Scalable AWS VPC: A Thought Process Guide](https://github.com/Sylkpac/Security/blob/main/README.md#buildingvpc)
-- <b> [Testing SSH Connections to a Bastion Host (Routing Visualized)](https://github.com/Sylkpac/Security/blob/main/README.md#sshtest)<b>
+- <b>[Testing SSH Connections to a Bastion Host (Routing Visualized)](https://github.com/Sylkpac/Security/blob/main/README.md#sshtest)<b>
 
 ## 🛡️ Threat Detection & Response (Reactive)<a name="threat"></a>
 
 ## 🔍 Threat Hunting & Vulnerability Management (Proactive)<a name="hunt"></a>
+- <b>[Testing Vulnerability Scans in Azure: Comparing Unauthenticated vs. Authenticated Tenable Scans](https://www.linkedin.com/pulse/testing-vulnerability-scans-azure-comparing-vs-authenticated-sarah-c--rpxje)
 
 ## 🧪 Monitoring & Forensics<a name="monitor"></a>
 
