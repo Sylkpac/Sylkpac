@@ -11,9 +11,9 @@ My day job in threat intelligence gives me insight into attacker methods, and Iâ
 Explore my labs and guides in the **index below** to see how I apply these concepts.
 
 ## What Youâ€™ll Find Here
-* AWS & Azure Labs: Practical, security-focused guides with explanations
+* AWS & Azure Labs: Practical, security-focused labs with explanations
 * My Decision Thought Process: How I evaluate cloud security, architecture, and operational trade-offs
-* Real-world Inspired Guides: Cloud Security, Threat Intelligence, Risk Management 
+* Real-world Inspired Guides: Tool guides in Cloud Security, Threat Intelligence, Risk Management 
 
 ---------------------
 
