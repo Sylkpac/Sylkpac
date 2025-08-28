@@ -19,9 +19,7 @@ Explore my labs and guides in the **index below** to see how I apply these conce
 
 * 🌍  I'm based in Florida
 * ✉️  You can contact me at [www.linkedin.com/in/sarah-c2023](https://www.linkedin.com/in/sarah-c2023/)
-* 🧠  I'm on a journey to becoming a Cloud Security Engineer
-* 🤝  I'm open to collaborating with Exam Studies
-* ⚡  I want to be good and do good for the world <3
+* 🤝  I want to be good and do good for the world <3
 
 ### Skills
 
