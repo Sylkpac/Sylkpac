@@ -70,7 +70,7 @@ Explore my labs and guides in the **index below** to see how I apply these conce
 
 ## 💻 PowerShell, Bash & Automations<a name="linux_bash_automation"></a>
 - <b>[tmux: A Powerful Multi-Pane Terminal](https://github.com/Sylkpac/Linux/blob/main/README.md#tmux)<b>
-- <b>[Learn How to Use cURL: A Beginner's Guide to Making Web Requests](https://github.com/Sylkpac/cURL)<b>
+- <b>[Learn How to Use cURL: A Beginner's Guide to Making Web Requests](https://github.com/Sylkpac/Linux/blob/main/README.md#curl)<b>
 - <b>[Trace the Route!](https://github.com/Sylkpac/traceroute)<b>
 - <b>[Find Your Public and Private IP](https://github.com/Sylkpac/Find-your-Public-IP/tree/main)<b>
 - <b>[Linux Cheat Sheet for Cloud & Security: Directories, Commands & Best Practices](https://github.com/Sylkpac/Linux/blob/main/README.md#linuxcheatsheet)<b>
